@@ -24,4 +24,13 @@ print(f"""The user first name is: {firstName}
     The user inter marks are:{user_inter_marks}
     The user inter marks are:{user_inter_marks}
     """)
+
 print(type(user_id))
+print(type(user_city))
+print(type(user_cnic))
+print(type(user_DOB))
+print(type(user_Nationality))
+print(type(user_matric_marks))
+print(type(user_matric_percentage))
+print(type(user_inter_marks))
+print(type(user_inter_percentage))
